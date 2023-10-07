@@ -31,9 +31,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
-+ [Join G05T Now For Free!!!](https.//whatsapp.com/GB9bwjquFyK3Q3W3HrRC4j)
++ [Join G05T Now For Free!!!](https.//chat.whatsapp.com/GB9bwjquFyK3Q3W3HrRC4j)
 
-[join G05T](https.//whatsapp.com/GB9bwjquFyK3Q3W3HrRC4j)
+[join G05T](https.//chat.whatsapp.com/GB9bwjquFyK3Q3W3HrRC4j)
 
 
 
