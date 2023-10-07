@@ -36,10 +36,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 [join G05T](https://chat.whatsapp.com/GB9bwjquFyK3Q3W3HrRC4j
 )
 
-
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
+This binary file has changed.
+Open file in external program
 [1]: http://slashdot.org
 [link text itself]: https.//whatsapp.com/GB9bwjquFyK3W3HrRC4
