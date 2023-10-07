@@ -3,8 +3,8 @@ A place where,you can make freiends,Meet people
 and such.This is the first development of this program 
 later additions will be added later
 
-Alt-H1
-======
+What is the use of this 
+=======================
 
 Alt-H2
 ------
