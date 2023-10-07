@@ -31,20 +31,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
-+ [JOIN G05T](https.//whatsapp.com/GB9bwjquFyK3W3HrRC4)
++ [Join G05T Now For Free!!!](https.//whatsapp.com/GB9bwjquFyK3Q3W3HrRC4j)
 
-[join G05T](https.//whatsapp.com/GB9bwjquFyK3W3HrRC4)
+[join G05T](https.//whatsapp.com/GB9bwjquFyK3Q3W3HrRC4j)
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
- [https.//whatsapp.com/GB9bwjquFyK3W3HrRC4].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <https.//whatsapp.com/GB9bwjquFyK3W3HrRC4j> and sometimes 
-example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
